@@ -5,8 +5,8 @@ dependency "mootools"
 # dependency "subtle-template"
 
 # load javascripts
-javascript "github-badge"
 javascript "subtle-template"
+javascript "github-badge"
 
 # load stylesheets
 # stylesheet "github-badge"
